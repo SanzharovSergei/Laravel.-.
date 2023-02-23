@@ -1,0 +1,38 @@
+.nav-set {
+    padding: 10px;
+}
+
+.ld-top {
+    margin: 40px auto 10px;
+}
+
+.ld-top-span {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ld-top-p {
+    max-width: 800px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+}
+
+.ld-top-a {
+    margin: 5px auto;
+    display: block;
+    max-width: 150px;
+}
+
+.ld-top-class {
+    margin: 20px auto;
+    background-color: #f5f5f5;
+}
+
+.no_link_dec {
+    text-decoration: none;
+}
+
+.mtop {
+    margin-top: 50px;
+}
